@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 R.id.buttonDivisaoID, R.id.buttonPorcentoID
         };
 
-        // Listener para adicionar operadores
+        // Listener para adicionar operadores.
         View.OnClickListener listenerOperacoes = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
